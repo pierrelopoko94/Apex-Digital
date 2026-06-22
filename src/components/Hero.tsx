@@ -15,7 +15,7 @@ const morphingKeywords = ["Créer.", "Innover.", "Transformer.", "Propulser."];
 
 export default function Hero({ onScrollTo }: HeroProps) {
   const [typedSlogan, setTypedSlogan] = useState('');
-  const sloganTarget = "Concevoir des expériences numériques";
+  const sloganTarget = "Cooncevoir des experiences numeriques";
   
   // Typing state
   useEffect(() => {

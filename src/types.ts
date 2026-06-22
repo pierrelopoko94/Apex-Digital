@@ -29,6 +29,7 @@ export interface ProjectItem {
   longDescription: string;
   challenge?: string;
   solution?: string;
+  impact?: string;
 }
 
 export interface TeamMember {
