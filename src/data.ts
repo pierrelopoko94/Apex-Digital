@@ -71,7 +71,7 @@ export const PROJECTS: ProjectItem[] = [
   title: 'Stratége',
   category: 'Stratégie & Partenariats',
   description: 'Responsable du développement stratégique et des partenariats au sein d’Apex Digital, Clément contribue à la croissance de l’agence à travers les relations professionnelles et les opportunités de collaboration.',
-  imageUrl: '/Image-personne/Clement-taff.jpg',
+  imageUrl: '/image/team/Clement-taff.jpg',
   tags: ['Stratégie', 'Partenariats', 'Communication', 'Développement', 'Networking'],
   clientName: 'Apex Digital',
   year: '2026',
@@ -92,7 +92,7 @@ export const PROJECTS: ProjectItem[] = [
   title: 'Quota Easy',
   category: 'Application de Gestion Financière',
   description: 'Une plateforme moderne conçue pour simplifier la gestion des cotisations, des quotas et le suivi des opérations financières en temps réel.',
-  imageUrl: '/Image-personne/Quota-Easy.png',
+  imageUrl: '/image/team/Quota-Easy.png',
   tags: ['Kotlin', 'Android', 'Firebase', 'Gestion Financière', 'Tableau de Bord'],
   clientName: 'Projet Personnel',
   year: '2026',
@@ -116,7 +116,7 @@ export const PROJECTS: ProjectItem[] = [
   title: 'Urban Photography Session',
   category: 'Photographie Artistique',
   description: 'Série de photos artistiques capturant des émotions humaines dans un environnement urbain moderne.',
-  imageUrl: '/Image-personne/Selenge-Oeuvre.jpg',
+  imageUrl: '/image/team/Selenge-Oeuvre.jpg',
   tags: ['Photographie', 'Portrait', 'Urban', 'Lightroom', 'Créatif'],
   clientName: 'Projet Personnel',
   year: '2026',
@@ -137,7 +137,7 @@ export const PROJECTS: ProjectItem[] = [
   title: 'Numbers Challenge',
   category: 'Jeu Mobile Interactif',
   description: 'Une application de divertissement où les joueurs sélectionnent des nombres qui révèlent des défis, actions ou questions à réaliser, créant une expérience amusante et imprévisible.',
-  imageUrl: '/Image-personne/Commencer.png',
+  imageUrl: '/image/team/Commencer.png',
   tags: ['Kotlin', 'Android', 'Jeu Mobile', 'Défis', 'Multijoueur'],
   clientName: 'Projet Personnel',
   year: '2026',
@@ -159,7 +159,7 @@ export const PROJECTS: ProjectItem[] = [
   title: 'Nature Portrait Session',
   category: 'Photographie Portrait',
   description: 'Série de portraits artistiques réalisés en milieu naturel, mettant en valeur la connexion entre l’humain et l’environnement.',
-  imageUrl: '/Image-personne/Selenge-Oeuvre03.jpg',
+  imageUrl: '/image/team/Selenge-Oeuvre03.jpg',
   tags: ['Photographie', 'Portrait', 'Nature', 'Créatif', 'Lumière naturelle'],
   clientName: 'Projet Personnel',
   year: '2026',
@@ -185,7 +185,7 @@ export const TEAM: TeamMember[] = [
     role: 'Développeur Web Full-stack & Architecte de Solutions',
     bio: 'Peter conçoit des infrastructures numériques hautement sécurisées et des applications web à haute performance. Il est expert dans la mise en place d\'architectures Cloud agiles, l\'optimisation des temps de chargement et le respect rigoureux des standards de sécurité du code.',
     // 🌟 [ZONE D'AJOUT PHOTO DE PETER] Remplacez cette adresse par votre propre photo de portrait (par ex. /src/assets/peter.jpg)
-    imageUrl: '/Image-personne/peter.jpg',
+    imageUrl: '/image/team/peter.jpg',
     keySkills: ['React / Next.js', 'TypeScript & ESM', 'Node.js / Express Dev', 'Architecture AWS / Cloud', 'Optimisation Tailwind CSS'],
     signatureQuote: 'Un excellent logiciel n\'est pas seulement écrit. Il est architecturé pour fonctionner en toute sécurité, charger instantanément et soulager la charge cognitive de l\'utilisateur.'
   },
@@ -195,7 +195,7 @@ export const TEAM: TeamMember[] = [
     role: 'Directeur Artistique & Récit Visuel',
     bio: 'Selenge dirige la production vidéo cinématographique, le montage haute fidélité et la création d\'identités graphiques puissantes. Elle aide les marques à transformer leur histoire et leurs valeurs fondamentales en contenus audiovisuels créateurs d\'émotions.',
     // 🌟 [ZONE D'AJOUT PHOTO DE SÉLENGE] Remplacez cette adresse par votre propre photo de portrait (par ex. /src/assets/selenge.jpg)
-    imageUrl: '/Image-personne/Selenge-present.jpg',
+    imageUrl: '/image/team/Selenge-present.jpg',
     keySkills: ['Réalisation Cinématographique', 'Production & Montage Vidéo', 'Design d\'Identités Graphiques', 'Planification de Campagnes Récit', 'Scénarisation Professionnelle'],
     signatureQuote: 'Les utilisateurs n\'achètent pas de simples produits, ils se connectent à une intention authentique. L\'émotion humaine reste la passerelle numérique absolue.'
   },
@@ -205,7 +205,7 @@ export const TEAM: TeamMember[] = [
     role: 'Stratège de Croissance & Partenariats',
     bio: 'il gère l\'acquisition clients et l\'alignement entre investissements technologiques et retours sur investissement. il veille à ce que chacune de nos créations visuelles serve directement les objectifs commerciaux de nos partenaires.',
     // 🌟 [ZONE D'AJOUT PHOTO] Remplacez cette adresse par votre propre photo de portrait (par ex. /src/assets/responsable.jpg)
-    imageUrl: 'Image-personne/Clement-present.jpg',
+    imageUrl: '/image/team/Clement-present.jpg',
     keySkills: ['Conseil d\'Affaires international', 'Cartographie de ROI Digital', 'Négociation & Cadrage Projet', 'Positionnement Stratégique', 'Stratégies d\'Acquisition de Partenaires'],
     signatureQuote: 'Nous alignons la recherche esthétique avec les indicateurs business stratégiques. Le design n\'est premium que s\'il génère une valeur client mesurable.'
   }
