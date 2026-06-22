@@ -4,7 +4,9 @@ import path from 'path';
 import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
+
   return {
+    base: '/Apex-Digital/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
