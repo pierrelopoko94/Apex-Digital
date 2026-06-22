@@ -205,7 +205,7 @@ export const TEAM: TeamMember[] = [
     role: 'Stratège de Croissance & Partenariats',
     bio: 'il gère l\'acquisition clients et l\'alignement entre investissements technologiques et retours sur investissement. il veille à ce que chacune de nos créations visuelles serve directement les objectifs commerciaux de nos partenaires.',
     // 🌟 [ZONE D'AJOUT PHOTO] Remplacez cette adresse par votre propre photo de portrait (par ex. /src/assets/responsable.jpg)
-    imageUrl: '/src/Image-personne/Clement-present.jpg',
+    imageUrl: 'Image-personne/Clement-present.jpg',
     keySkills: ['Conseil d\'Affaires international', 'Cartographie de ROI Digital', 'Négociation & Cadrage Projet', 'Positionnement Stratégique', 'Stratégies d\'Acquisition de Partenaires'],
     signatureQuote: 'Nous alignons la recherche esthétique avec les indicateurs business stratégiques. Le design n\'est premium que s\'il génère une valeur client mesurable.'
   }
